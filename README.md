@@ -4,3 +4,5 @@ Problem sets and project from Programming and Scripting module as part of GMIT's
 Exercises 1 & 2: fibname.py
 
 Exercise 3: collatzexercise.py
+
+Exercise 4: ProjectEulerProblem5.py
