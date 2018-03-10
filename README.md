@@ -8,3 +8,5 @@ Exercise 3: collatzexercise.py
 Exercise 4: ProjectEulerProblem5.py
 
 Exercise 5: IrisDataSet.py
+
+Exercise 6: factorialexercise.py
